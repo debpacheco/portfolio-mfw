@@ -88,3 +88,10 @@ nav.navbar{
     border-color:transparent;
 }
 
+.contact{
+background: url('../img/flowers-2798558_960_720.jpg' no-repeat center center;
+  background-size: cover;
+  height: 400px;
+  text-align: center;
+  margin-bottom: 0px;
+}
