@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Crete+Round');
+@import url('https://fonts.googleapis.com/css?family=Crete+Round|Raleway');
 
 body{
     /* font-family: 'Crete Round', serif;
@@ -11,6 +11,10 @@ body{
     font-family: 'Crete Round', serif;
     
 
+}
+
+.container{
+    font-family: 'Raleway', serif;
 }
 
 /*NAV Section*/
@@ -65,6 +69,7 @@ nav.navbar{
     height: 400px;
     text-align: center;
     margin-bottom: 0px;
+    font-family: 'Crete Round', serif;
   }
 
 .social-media {
