@@ -41,7 +41,7 @@ body{
 
 .navbar-default .navbar-nav li a:hover,
 .navbar-default .navbar-nav li a:focus{
-    color:#f8512f;
+    color:#648477;
     background-color: rgba(17,17,17,.2);
 }
 
@@ -79,19 +79,18 @@ nav.navbar{
 
 .btn-primary{
     color:#fff;
-    background-color:#f8512f;
+    background-color:#90B0A5
     border-color:transparent;
 }
 .btn-primary:hover{
     color:#fff;
-    background-color:#d34326;
+    background-color:#90B0A5
     border-color:transparent;
 }
 
-.contact{
-background: url('../img/flowers-2798558_960_720.jpg' no-repeat center center;
+.contact_form{
+    background: url('../img/butterfly.jpg') no-repeat center center;
   background-size: cover;
   height: 400px;
-  text-align: center;
   margin-bottom: 0px;
 }
