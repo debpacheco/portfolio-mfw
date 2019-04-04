@@ -1,13 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Crete+Round');
 
 body{
-    font-family: 'Crete Round', serif;
-    font-weight:400;
+    /* font-family: 'Crete Round', serif;
+    font-weight:400; */
 }
 
 .container-fluid{
     padding: 0; 
     margin: 0;
+    font-family: 'Crete Round', serif;
     
 
 }
