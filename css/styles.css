@@ -3,6 +3,8 @@
 body{
     /* font-family: 'Crete Round', serif;
     font-weight:400; */
+    background-color: #f3f9f7;
+    color:#353232;
 }
 
 .container-fluid{
@@ -68,8 +70,12 @@ nav.navbar{
     background-size: cover;
     height: 500px;
     text-align: center;
-    margin-top: 5px;
     font-family: 'Crete Round', serif;
+    
+  }
+
+  .jumbotext{
+      margin-top:60px;
   }
 
 .social-media {
